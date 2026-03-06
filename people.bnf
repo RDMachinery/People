@@ -1,0 +1,7 @@
+<person> ::= <name> <age>
+<name> ::= <string> <EOL>
+<age> ::= <number> <EOL>
+<string> ::= <alphabetic>*
+<number> ::= <integer>*
+
+
